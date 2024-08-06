@@ -3,7 +3,6 @@ CURRENTLY IN PROGRESS
 
 Pages To Do:
 - Overview
-  - Strategies
   - Reflection
 - Strategies
   - Shorter Showers
