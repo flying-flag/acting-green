@@ -32,3 +32,12 @@
   display: none;
   color: #007bff;
 }
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.footer-container {
+  margin-top: auto;
+}
