@@ -1,6 +1,4 @@
 # Acting Green CAT
-CURRENTLY IN PROGRESS
 
-Pages To Do:
-- Remove Extra Sections
-- Bug Fixing
+This presentation is done.
+Some things may be changed.
